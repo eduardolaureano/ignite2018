@@ -25,6 +25,7 @@
 
 ## Blogs
 * [Azure serverless Sept 2018 - Ignite release blog post](https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0) 
+* [Azure Functions on Kubernetes](https://medium.com/@asavaritayal/azure-functions-on-kubernetes-75486225dac0)
 * [aka.ms/AppServiceBlog](https://aka.ms/AppServiceBlog)
 * [aka.ms/TryFunctions](https://aka.ms/TryFunctions)
 

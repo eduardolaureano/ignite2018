@@ -1,4 +1,4 @@
-# Microsoft Ignite 2018
+# Microsoft Winter Ready 2019
 
 ## Azure Functions resources
 * [Azure Functions Documentation](https://docs.microsoft.com/azure/azure-functions) 
@@ -12,10 +12,6 @@
 * [Azure serverless cookbook](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook/)
 * [Azure serverless webinar](https://info.microsoft.com/ww-landing-build-event-driven-apps-with-serverless-ondemand.html)
 
-## Preview sign up
-* [Python private privew](https://aka.ms/functions-python-preview)
-* [Linux Consumption private preview](https://aka.ms/functions-consumptionlinux-preview)
-* [Premium Functions private preview](http://aka.ms/functionspremium)
 
 ## Get in touch
 * [Azure Functions on GitHub](https://github.com/Azure/Azure-Functions)
@@ -26,7 +22,6 @@
 ## Blogs
 * [Azure serverless Sept 2018 - Ignite release blog post](https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0) 
 * [Azure Functions on Kubernetes](https://medium.com/@asavaritayal/azure-functions-on-kubernetes-75486225dac0)
-* [Functions team blog](https://blogs.msdn.microsoft.com/appserviceteam/tag/azure-functions/)
 
 ## Use Cases
 * [Technical use cases](https://microsoft.github.io/techcasestudies/#technology=Azure%20Functions&sortBy=featured)

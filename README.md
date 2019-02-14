@@ -16,7 +16,9 @@
 ## Get in touch
 * [Azure Functions on GitHub](https://github.com/Azure/Azure-Functions)
 * [Azure Functions on StacKOverflow](https://stackoverflow.com/questions/tagged/azure-functions) 
+* [@cgillum](https://twitter.com/cgillum)
 * [@eduardolaureano](https://twitter.com/eduardolaureano)
+* [@codesapien](https://twitter.com/codesapien)
 * [@AzureFunctions](https://twitter.com/AzureFunctions)
 
 ## Blogs
